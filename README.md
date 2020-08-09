@@ -1,14 +1,8 @@
 # Python Checkpoints
 Each notebook deals with a concept in programming in general, and python in particular. 
 
-- Bullet list
-              - Nested bullet
-                  - Sub-nested bullet etc
-          - Bullet list item 2 
-          
-In *class_instance* different sets of commodities are defined in multiple classes.
-
-In *namedtuple*, difference between namedtuples and dictionaries are discussed.
+- In *class_instance* different sets of commodities are defined in multiple classes.
+- In *namedtuple*, difference between namedtuples and dictionaries are discussed.
 
 The examples are based on the following table:
 | Commodity | Category | Exchange | Ticker | Delivery Months | Unit |
