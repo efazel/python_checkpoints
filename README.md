@@ -15,3 +15,12 @@ In *class_instance* different sets of commodities are defined in multiple classe
 | Live Cattle | Livestock | CME | LC | 2,4,6,8,10,12 | 40,000 lbs | 
 | Aluminium | Base Metals | LME | LA | 1:12 | 25 metric tons |
 | Aluminium | Base Metals | LME | LA | 1:12 | 25 metric tons |
+| Copper | Base Metals | LME | LP | 1:12 | 25,000 tons |
+| Lead | Base Metals | LME | LL | 1:12 | 25,000 tons |
+| Nickel | Base Metals | LME | LN | 1:12 | 6 metric tons |
+| Tin | Base Metals | LME | LT | 1:12 | 5 metric tons |
+| Zinc | Base Metals | LME | LX | 1:12 | 25 metric tons |
+| Cocoa | Softs | ICE | CC | 3,5,7,9,12 | 10 metric tons |
+| Coffee | Softs | ICE | KC | 3,5,7,9,12 | 37,000 lbs |
+| Cotton | Softs | ICE | CT | 3,5,7,10,12 | 50,000 lbs |
+| Sugar | Softs | ICE | SB | 3,5,7,10 | 112,000 lbs |
