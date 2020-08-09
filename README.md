@@ -6,4 +6,6 @@ In *class_instance* different sets of commodities are defined in multiple classe
 | :---: | :---: | :---: | :---: | :---: | :---: | 
 | Crude Oil | Energy | ICE | CO | 1:12 | 1,000 barrels |
 | Heating Oil | Energy | NYMEX | HO | 1:12 | 1,000 barrels |
+| WTI | Energy | NYMEX | CL | 1:12 | 1,000 barrels |
+| Corn | Grains & Oilseeds | CBOT | C | 3,5,7,9,12 |
 
