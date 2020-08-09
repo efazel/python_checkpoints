@@ -17,7 +17,6 @@ The examples are based on the following table:
 | Lean Hogs | Livestock | CME | LH | 2,4,6,7,8,10,12 | 40,000 lbs | 
 | Live Cattle | Livestock | CME | LC | 2,4,6,8,10,12 | 40,000 lbs | 
 | Aluminium | Base Metals | LME | LA | 1:12 | 25 metric tons |
-| Aluminium | Base Metals | LME | LA | 1:12 | 25 metric tons |
 | Copper | Base Metals | LME | LP | 1:12 | 25,000 tons |
 | Lead | Base Metals | LME | LL | 1:12 | 25,000 tons |
 | Nickel | Base Metals | LME | LN | 1:12 | 6 metric tons |
