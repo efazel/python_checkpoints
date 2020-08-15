@@ -1,5 +1,5 @@
 # Python Checkpoints
-Each notebook deals with a concept in programming in general, and python in particular. 
+Each notebook deals with a concept in programming in general and Python in particular.  
 
 - In *class_instance*, different sets of commodities are defined in multiple classes.
 - In *namedtuple*, the distinction between namedtuples and dictionaries is discussed.
